@@ -7,4 +7,5 @@
 ### 2: JAVASERVER PAGES
 - [2.1] Set Spring MVC Application to use JSP View Template
 - [2.2] Implement full lifecycle of Registration Controller
-- [2.3] Override Spring MVC Config
+- [2.3] Override Spring MVC Config and implement View Resolver
+- [2.4] Resolve static files/resources hosted from inside the application  
