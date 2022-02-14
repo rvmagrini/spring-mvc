@@ -11,3 +11,7 @@
 - [2.4] Resolve static files/resources hosted from inside the application
 - [2.5] Implement Internationalization support
 - [2.6] Implement Post-Redirect-Get Pattern
+
+### 3: THYMELEAF
+- [3.1] Break JSP and implement Thymeleaf View Resolver
+
