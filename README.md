@@ -15,3 +15,6 @@
 ### 3: THYMELEAF
 - [3.1] Break JSP and implement Thymeleaf View Resolver
 
+### 4: VALIDATOR
+- [4.1] Switch back to JSP and implement Bean Validation
+

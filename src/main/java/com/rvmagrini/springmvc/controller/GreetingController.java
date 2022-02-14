@@ -14,10 +14,5 @@ public class GreetingController {
         return "greeting";
     }
 
-    @GetMapping("thyme")
-    public String thymeleaf(Map<String, Object> model) {
-        model.put("message", "Hello thyme.html in 'webapp/views': greetings from Controller");
-        return "thyme";
-    }
 
 }
